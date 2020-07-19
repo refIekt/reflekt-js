@@ -1,0 +1,24 @@
+{
+  "name": "reflekt-js",
+  "version": "0.1.0",
+  "description": "Reflection-driven development via reflection testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maedi/reflekt-js.git"
+  },
+  "keywords": [
+    "Reflection",
+    "Testing",
+    "RDD"
+  ],
+  "author": "Maedi Prichard",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/maedi/reflekt-js/issues"
+  },
+  "homepage": "https://github.com/maedi/reflekt-js#readme"
+}
