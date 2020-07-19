@@ -24,8 +24,6 @@ Enable per environment:
 Reflekt.enabled = true;
 ```  
 
-Don't forget to disable in production.
-
 ## Usage  
 
 Inside an object that you want to test add:  
